@@ -10,7 +10,7 @@
             class="navbar-item techlabs-berlin-logo"
             to="/timeline"
             target="_new"
-            ><img class="navbar-logo" src="~assets/techlabs-berlin-logo.svg" />
+            ><img class="navbar-logo" src="~assets/techlabs-ms-logo.svg" />
           </nuxt-link>
 
           <a
@@ -41,28 +41,28 @@
           </div>
           <div class="navbar-end">
             <div class="navbar-item navbar-social-link">
-              <a href="https://facebook.com/techlabsberlin" target="_new">
+              <a href="https://facebook.com/techlabsms" target="_new">
                 <Fab i="facebook-f" />
-                <span class="navbar-social-link-handle">techlabsberlin</span>
+                <span class="navbar-social-link-handle">techlabsms</span>
               </a>
             </div>
             <div class="navbar-item navbar-social-link">
-              <a href="https://instagram.com/techlabs.berlin" target="_new">
+              <a href="https://instagram.com/techlabs.ms" target="_new">
                 <Fab i="instagram" />
-                <span class="navbar-social-link-handle">techlabs.berlin</span>
+                <span class="navbar-social-link-handle">techlabs.ms</span>
               </a>
             </div>
             <div class="navbar-item navbar-social-link">
-              <a href="https://techlabsberlin.slack.com" target="_new">
+              <a href="https://techlabs-community.slack.com" target="_new">
                 <Fab i="slack" />
                 <span class="navbar-social-link-handle"
-                  >techlabsberlin.slack.com</span
+                  >techlabs-community.slack.com/</span
                 >
               </a>
             </div>
             <div class="navbar-item has-text-centered">
               <a
-                href="https://techlabs.org/location/Berlin"
+                href="https://www.techlabs.org/location/Muenster"
                 target="_new"
                 class="techlabs-button"
               >
@@ -83,9 +83,9 @@
       <div class="content has-text-centered">
         <p>
           <strong>Semester Radar</strong> by
-          <nuxt-link to="/contact">TechLabs Berlin e.V</nuxt-link>.<br />
+          <nuxt-link to="/contact">TechLabs Münster</nuxt-link>.<br />
           Source code is available on
-          <a href="https://github.com/TechLabs-Berlin/radar" target="_new"
+          <a href="https://github.com/techlabsms/timeline-ms" target="_new"
             >GitHub</a
           >
           licensed
@@ -125,13 +125,13 @@ export default {
   },
   head() {
     return {
-      title: 'TechLabs Berlin Semester Radar'
+      title: 'TechLabs Münster Semester Radar'
     }
   }
 }
 </script>
 
 <style lang="sass">
-.techlabs-berlin-logo
+.techlabs-ms-logo
   padding-left: 0
 </style>
