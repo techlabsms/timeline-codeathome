@@ -10,7 +10,10 @@
             class="navbar-item techlabs-berlin-logo"
             to="/timeline"
             target="_new"
-            ><img class="navbar-logo" src="~assets/techlabs-ms-logo.svg" />
+            ><img
+              class="navbar-logo"
+              src="~assets/techlabs-codeathome-logo.svg"
+            />
           </nuxt-link>
 
           <a
@@ -41,15 +44,15 @@
           </div>
           <div class="navbar-end">
             <div class="navbar-item navbar-social-link">
-              <a href="https://facebook.com/techlabsms" target="_new">
+              <a href="https://www.facebook.com/techlabs/" target="_new">
                 <Fab i="facebook-f" />
-                <span class="navbar-social-link-handle">techlabsms</span>
+                <span class="navbar-social-link-handle">techlabs</span>
               </a>
             </div>
             <div class="navbar-item navbar-social-link">
-              <a href="https://instagram.com/techlabs.ms" target="_new">
+              <a href="https://www.instagram.com/techlabs" target="_new">
                 <Fab i="instagram" />
-                <span class="navbar-social-link-handle">techlabs.ms</span>
+                <span class="navbar-social-link-handle">techlabs</span>
               </a>
             </div>
             <div class="navbar-item navbar-social-link">
@@ -62,7 +65,7 @@
             </div>
             <div class="navbar-item has-text-centered">
               <a
-                href="https://www.techlabs.org/location/Muenster"
+                href="https://www.techlabs.org/program/remote"
                 target="_new"
                 class="techlabs-button"
               >
