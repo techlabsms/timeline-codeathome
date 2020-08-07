@@ -1,21 +1,21 @@
 ---
-  slug: kick-off
-  name: Semester Kick-Off
-  date: "2020-09-01T20:00:00+02:00"
+  slug: application-phase
+  name: Aplications will be open soon!
+  date: "2020-08-15T20:00:00+02:00"
   description: |
     This is where your Digital Shaper Journey will start. We'll give you a summary on all you need to know to master your track.
 
-    Our topics include:
+  #  Our topics include:
 
-    1. **Key Facts** regarding TechLabs, the Digital Shaper program, certificate and community
-    1. **Administrative Topics** – your onboarding to our toolset, communication channels, regular meetings & next steps
-    1. **Community Get-Together** – we want to get to know each other
-    1. **Track Get-Together** – you'll meet other participants in the track you're planning to choose
+  #  1. **Key Facts** regarding TechLabs, the Digital Shaper program, certificate and community
+  #  1. **Administrative Topics** – your onboarding to our toolset, communication channels, regular meetings & next steps
+  #  1. **Community Get-Together** – we want to get to know each other
+  #  1. **Track Get-Together** – you'll meet other participants in the track you're planning to choose
   forms: []
   # - title: Feedback
   #   description: Please leave feedback for our Kick-Off Event!
   #   url: https://techlabsorg.typeform.com/to/SCoGA7
-  resources:
+  resources: []
     # - title: "Meet: Kick-Off"
     #   description: The main room where we will meet.
     #   type: meeting
@@ -36,7 +36,7 @@
     #   description: Break-Out Room for UX Design
     #   type: meeting
     #   url: https://meet.google.com/aep-cocb-wyq
-    - title: "Slides"
-      description: The presentation we showed you during the Kick-Off
-      type: slides
-      url: https://techlabs.org
+    #- title: "FAQ"
+    # description: Frequently asked questions and answers
+    #  type: link
+    # url: https://codeathome.techlabs.org/faq

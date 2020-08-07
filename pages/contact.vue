@@ -8,13 +8,9 @@
         <p>
           <strong>TechLabs Münster e.V.</strong><br />
           c/o Andrés David Vega Botero<br />
-          Stubenrauchstr. 28<br />
-          12161 Berlin
         </p>
-        <p>E-Mail-Adresse: muenster@techlabs.org</p>
-        <p>
-          Vorstand: László Kühl, Greta Lenzing, Felix Lehmkuhle, Jacqueline Vogt
-        </p>
+        <p>E-Mail-Adresse: codeathome@techlabs.org</p>
+        <p></p>
       </div>
     </div>
   </div>

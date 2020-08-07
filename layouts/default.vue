@@ -85,10 +85,12 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          <strong>Semester Radar</strong> by
-          <nuxt-link to="/contact">TechLabs Münster</nuxt-link>.<br />
+          <strong>CodeAtHome Semester Radar</strong> by
+          <nuxt-link to="/contact">TechLabs</nuxt-link>.<br />
           Source code is available on
-          <a href="https://github.com/techlabsms/timeline-ms" target="_new"
+          <a
+            href="https://github.com/techlabsms/timeline-codeathome"
+            target="_new"
             >GitHub</a
           >
           licensed

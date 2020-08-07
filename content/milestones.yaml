@@ -1,19 +1,15 @@
 
 - slug: apply
   name: Apply for The second CodeAtHome bootcamp
-  date: "2020-08-08T23:59:59+02:00"
+  date: "2020-08-30T20:00:00+02:00"
   description: |
-    You can apply for TechLabs Berlin **until Saturday**. All you need to do is to complete the application
+    You can apply for TechLabs CodeAtHome **until the 30th of August**. All you need to do is to complete the application
     form linked below.
 
-    Please note that the survey consists of several questions, some of them require you to reflect on yourself.
-    This is intentional and ensures that we can build a community of very smart and motivated learners.
-    In that way you can be sure that your learning experience will be awesome and that you'll all have a great time.
-    On the other hand, it also means you'll have to invest 20 to 30 minutes. But it'll be worth it, we promise!
   todos:
   - name: Submit Your Application
     resources:
       - title: Application Form
         type: feedback
-        url: https://techlabsorg.typeform.com/to/nP8sGW
+        url: https://techlabs.org
 
