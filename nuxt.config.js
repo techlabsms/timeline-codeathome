@@ -116,15 +116,15 @@ export default {
   },
   pwa: {
     manifest: {
-      name: 'TechLabs Berlin Semester Radar',
-      short_name: 'TechLabs Berlin',
+      name: 'TechLabs CodeAtHome Semester Radar',
+      short_name: 'TechLabs CodeAtHome',
       lang: 'en'
     },
     meta: {
-      name: 'TechLabs Berlin Semester Radar',
-      author: 'TechLabs Berlin e.V.',
+      name: 'TechLabs CodeAtHome Semester Radar',
+      author: 'TechLabs CodeAtHome e.V.',
       description:
-        'The TechLabs Berlin semester radar shows all the important semester information at a glance',
+        'The TechLabs CodeAtHome semester radar shows all the important semester information at a glance',
       lang: 'en',
       nativeUI: true,
       appleStatusBarStyle: 'default'

@@ -1,6 +1,6 @@
 # radar
 
-> The TechLabs Berlin semester radar shows all the important semester information at a glance
+> The TechLabs CodeAtHome semester radar shows all the important semester information at a glance
 
 ## Build Setup
 

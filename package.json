@@ -1,7 +1,7 @@
 {
   "name": "radar",
   "version": "1.0.0",
-  "description": "The TechLabs Berlin semester radar shows all the important semester information at a glance",
+  "description": "The TechLabs semester radar shows all the important semester information at a glance",
   "author": "Felix Seidel",
   "private": true,
   "scripts": {
