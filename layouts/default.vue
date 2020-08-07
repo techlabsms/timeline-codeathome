@@ -130,7 +130,7 @@ export default {
   },
   head() {
     return {
-      title: 'TechLabs Münster Semester Radar'
+      title: 'TechLabs CodeAtHome Semester Radar'
     }
   }
 }
